@@ -1,0 +1,3 @@
+# Koding
+
+This is just a repository for me to mess around in, not for y'all to poke your noses in. Nothing interesting here...
