@@ -1,3 +1,3 @@
-# Koding
+# Readme
 
-This is just a repository for me to mess around in, not for y'all to poke your noses in. Nothing interesting here...
+This is just me messing around :) working on making a little database of images to improve my HTML skills and just have a little fun. Add to it if you want to.
